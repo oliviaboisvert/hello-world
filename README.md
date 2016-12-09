@@ -1,2 +1,3 @@
 # hello-world
-just another reository
+just another repsitory
+Hi my name is Olivia and I love coding 
